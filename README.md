@@ -1,13 +1,16 @@
-# RfContrib Documentation Utilisateur
+# RfContrib
 
-Documentation utilisateur de l'application RfContrib
+Documentation utilisateur
 
-## Table of Contents
-
+## Contenu
+- [Présentation](#presentation)
 - [Installation](#installation)
 - [Utilisation](#usage)
 - [Support](#support)
 
+## Présentation
+RFContrib’ permet la capture de photos et vidéos depuis un smartphone dans
+le but de les mettre à disposition d’Orphea.
 
 ## Installation
 
