@@ -2,7 +2,8 @@
 
 ## Contenu
 - [Présentation](#presentation)
-
+  - [Sujets et reportages](#sujets-et-reportages)
+  - [A propos de la saisie](#A-propos-de-la-saisie)
 
 - [Prise en main rapide](#prise-en-main-rapide)
 - [Lancement](#lancement)
@@ -12,11 +13,18 @@
    - [Tuiles de captation](#tuiles-de-captation)
    - [Zone de gestion des sujets](#zone-de-gestion-des-sujets)
 - [Menu principal](#menu-principal)
+
 ## Présentation
+
+### Sujets et reportages
 L’application RFContrib’ permet la capture de photos et vidéos depuis un smartphone dans le but de les mettre à disposition d’Orphea, la photothèque centralisée de Radio France.
 
-Les photos et vidéos capturés peuvent et *doivent* être groupées dans des reportages. Dans RfContrib les reportages sont désignés sous le nom de _sujets_. Ils seront appelés ainsi dans le reste de cette documentation d'aide.
+Les photos et vidéos capturés peuvent et *doivent* être groupées dans des reportages. Dans RfContrib les reportages sont désignés sous le nom de _sujets_; une fois uploadés dans Orphea ils deviennent à nouveau des reportages.
 
+Dans le reste de cette documentation nous les désignerons comme des "sujets".
+
+### A propos de la saisie
+Sur RfContrib pensez à tirer profit des différentes méthodes de saisie proposées par le clavier de votre smartphone. Notamment, la saisie vocale. Ce type de saisie vous permettra d'aller beaucoup plus vite lors de la capture d'une photo ou vidéo.
 
 ## Prise en main rapide
 
@@ -46,7 +54,6 @@ Une fois installée, l’application est disponible dans l’écran d’accueil 
 Si vous ne trouve pas l'icone, utilisez le moteur de recherche dans votre téléphone pour rechercher l'applicationn nommée _RfContrib_.
 
 Une fois trouvée vous pouvez cliquez longuement sur l'icône, un menu déroulant devrait s'afficher et vous proposer de créer un raccourci vers cette application sur l'écran d'accueil.
-
 
 ## Identification
 
@@ -90,7 +97,6 @@ En dessous des tuiles de captation vous y verrez la zone de gestion des sujets. 
 
 ![Zone gestion de sujets vide](img/zonesujetvide.png)
 
-
 Si des sujets sont déjà disponibles, ils apparaissent sous forme de tuiles de sujets, en dessous des tuiles de captation.
 
 Le dernier sujet auquel a été ajouté une photos ou vidéo apparait en haut de la liste.
@@ -114,3 +120,20 @@ Le menu princpial donne accès aux actions suivantes:
 Le menu princpial, donne égalgmeent un aperçu de l'espace de stockage disponible.
 
 En fonction de la taille de l’écran, il peut être nécessaire de faire défiler ces menus pour y accéder en intégralité.
+
+### Changer d’utilisateur
+
+Cette option est utile lors du partage d'un smartphone entre plusieurs personnes. Le changement d'utilisateur permet de modifier le nom et prénom de l'utilisateur actuel. Ces données sont importantes car ce sont celles qui serviront à renseigner le crédit de la photo/vidéo et donc les droits d'auteurs associés.
+
+Vous pouvez à tout moment consulter sous quelle identité vous êtes connecté à RfContrib’, c’est affiché dans l’en-tête du menu général.  Cette information est conservée dans les métadonnées de la photo lorsqu’elle est envoyée à la photothèque Orphea.
+
+### Créer un sujet
+
+Un sujet est une groupe de photos et vidéos qui deviendra un "reportage" une fois uploadé sur Orphea.
+
+Pour créer un sujet, vous pouvez au choix :
+-	afficher le menu général et sélectionner l’option « Créer un sujet » 
+-	appuyer sur l’icône « Créer un sujet » affichée dans la zone de gestion des sujets de l’écran d’accueil de l’application
+ 
+
+Il est obligatoire de donner un titre à son sujet; celui-ci deviendra en effet le titre du reportage dans Orphea.
